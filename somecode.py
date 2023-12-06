@@ -1,7 +1,7 @@
 #-----------------------|
 # Import Python Modules |
 #-----------------------|
-import sys, urllib
+import sys
 from optparse import OptionParser
 
 #--------------------------|
