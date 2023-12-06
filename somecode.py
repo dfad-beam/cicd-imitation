@@ -1,8 +1,7 @@
 #-----------------------|
 # Import Python Modules |
 #-----------------------|
-import os, sys, urllib
-from xml.dom import minidom
+import sys, urllib
 from optparse import OptionParser
 
 #--------------------------|
